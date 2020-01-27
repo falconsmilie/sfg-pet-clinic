@@ -26,7 +26,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<start-class>guru.springframework.sfgpetclinic.guru.springframework.sfgpetclinic.SfgPetClinicApplication</start-class>
+		<start-class>guru.springframework.guru.springframework.sfgpetclinic.guru.springframework.guru.springframework.sfgpetclinic.SfgPetClinicApplication</start-class>
 	</properties>
 
 	<build>
